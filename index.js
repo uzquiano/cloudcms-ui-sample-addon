@@ -18,7 +18,5 @@ define(function(require) {
 
     // global CSS overrides
     require("./styles/sample.css");
-
-    alert("second");
-
+    
 });
